@@ -20,7 +20,7 @@ setup(
     license="BSD",
     python_requires="~=3.6",
     setup_requires=["setuptools_scm"],
-    install_requires=["setuptools", "nmigen"],
+    install_requires=["setuptools", "amaranth"],
     packages=find_packages(),
     project_urls={
         "Source Code": "https://github.com/lambdaconcept/lambdausb",
